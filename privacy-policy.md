@@ -1,6 +1,6 @@
 ---
 title: Padio Privacy Policy
-layout: privacy-policy
+nav_order: 3
 ---
 
 # Padio Privacy Policy
