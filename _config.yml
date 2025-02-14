@@ -4,3 +4,13 @@ favicon: https://cdn.discordapp.com/app-icons/1282618377654898731/bf7761ff805ad4
 theme: just-the-docs
 
 url: https://sobhan-srza.github.io/padio/
+repository: Sobhan-SRZA/Padio
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" 
+      type: "pages"
+    values:
+      layout: "default"
