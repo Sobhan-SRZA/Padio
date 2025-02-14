@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Padio
+description: Padio is an advanced radio bot for Discord voice channels that lets you enjoy a wide range of trending online radio stations with high-quality, seamless performance. Whether you're looking to set the mood for a gaming session or just relax with your favorite tunes, Padio has you covered.
+icon: https://cdn.discordapp.com/app-icons/1282618377654898731/bf7761ff805ad4e43784a727d8b4ff16.png?size=1024
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://sobhan-srza.github.io/padio/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
