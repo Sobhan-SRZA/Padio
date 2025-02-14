@@ -1,6 +1,9 @@
 ---
-title: Padio
+title: Home
 layout: home
+nav_order: 1
+description: "Padio is an advanced radio bot for Discord voice channels that lets you enjoy a wide range of trending online radio stations with high-quality, seamless performance. Whether you're looking to set the mood for a gaming session or just relax with your favorite tunes, Padio has you covered."
+permalink: /
 ---
 
 # Padio - The Ultimate Discord Radio Bot 📻🎧
