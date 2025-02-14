@@ -9,11 +9,4 @@ url: https://sobhan-srza.github.io/padio/
 repository: Sobhan-SRZA/Padio
 favicon_ico: "/favicon.ico"
 
-permalink: pretty
-
-defaults:
-  - scope:
-      path: "docs" 
-      type: "pages"
-    values:
-      layout: "default"
+footer_content: "Copyright &copy; 2024-2025 <a href="https://github.com/Sobhan-SRZA">Sobhan-SRZA</a>."
