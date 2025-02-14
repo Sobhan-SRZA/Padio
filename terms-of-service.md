@@ -1,3 +1,8 @@
+---
+title: Padio Terms of Service
+layout: terms-of-service
+---
+
 # Padio Terms of Service
 
 ## Introduction
