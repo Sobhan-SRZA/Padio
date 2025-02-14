@@ -1,3 +1,8 @@
+---
+title: Padio Privacy Policy
+layout: privacy-policy
+---
+
 # Padio Privacy Policy
 
 ## Introduction
