@@ -1,6 +1,6 @@
 ---
 title: Padio Terms of Service
-layout: terms-of-service
+nav_order: 4
 ---
 
 # Padio Terms of Service
