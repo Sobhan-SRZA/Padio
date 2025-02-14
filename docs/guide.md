@@ -1,6 +1,6 @@
 ---
-title: Padio Setup and Command Guide
-layout: guide
+title: Setup and Command Guide
+nav_order: 1
 ---
 
 # Padio Setup and Command Guide
