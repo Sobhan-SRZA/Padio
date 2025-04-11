@@ -1,13 +1,13 @@
-title: Padio
-description: Padio is an advanced radio bot for Discord voice channels that lets you enjoy a wide range of trending online radio stations with high-quality, seamless performance. Whether you're looking to set the mood for a gaming session or just relax with your favorite tunes, Padio has you covered.
-theme: just-the-docs
+title: "Padio"
+description: "Padio is an advanced radio bot for Discord voice channels that lets you enjoy a wide range of trending online radio stations with high-quality, seamless performance. Whether you're looking to set the mood for a gaming session or just relax with your favorite tunes, Padio has you covered."
+theme: "just-the-docs"
 
-url: https://sobhan-srza.github.io/padio/
-repository: Sobhan-SRZA/Padio
+url: "https://sobhan-srza.github.io/padio/"
+repository: "Sobhan-SRZA/Padio"
 favicon_ico: "/favicon.ico"
 
-footer_content: "Copyright &copy; 2024-2025 <a href="https://github.com/Sobhan-SRZA">Sobhan-SRZA</a>."
-color_scheme: dark
+footer_content: "Copyright &copy; 2024-2025 <a href=\"https://github.com/Sobhan-SRZA\">Sobhan-SRZA</a>."
+color_scheme: "dark"
 
 # Define Jekyll collections
 collections:
@@ -22,7 +22,7 @@ just_the_docs:
     # Reference the "tests" collection
     tests:
       # Give the collection a name
-      name: Tests
+      name: "Tests"
       # Exclude the collection from the navigation
       # Supports true or false (default)
       # nav_exclude: true
