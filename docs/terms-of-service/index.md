@@ -1,6 +1,6 @@
 ---
 title: Padio Terms of Service
-layout: terms-of-service
+layout: home
 permalink: /terms-of-service
 nav_order: 4
 description: "By using Padio, you agree to the following Terms of Service. These conditions are designed to ensure a safe, secure, and efficient environment for all users."
