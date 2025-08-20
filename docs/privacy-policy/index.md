@@ -1,6 +1,6 @@
 ---
 title: Padio Privacy Policy
-layout: privacy-policy
+layout: home
 permalink: /docs/privacy-policy
 nav_order: 3
 description: "Padio is an advanced radio bot for Discord voice channels that allows users to enjoy a wide variety of trending online radio streams with high-quality, seamless performance."
