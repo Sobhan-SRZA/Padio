@@ -1,6 +1,9 @@
 ---
 title: Setup and Command Guide
+layout: guide
+permalink: /docs/guide
 nav_order: 2
+description: "Welcome to the Padio guide! This page will walk you through how to set up Padio on your Discord server and explain how to use its various commands to get the most out of your radio experience."
 ---
 
 # Padio Setup and Command Guide
